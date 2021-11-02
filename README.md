@@ -5,7 +5,7 @@
   <div> 
   ## Oiii eu sou o Mauricio De Souza Peixoto!
 
-  <a href="https://www.instagram.com/mauriciosouzzapeixoto/" target="_blank"> <img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>  <a href="https://www.linkedin.com/in/mauricio-de-souza-peixoto/" target="_blank"><a href="https://www.gmail.com/mauriciosouzzapeixoto@gmail.com/" target="_blank">
+  <a href="https://www.instagram.com/mauriciosouzzapeixoto/" target="_blank"><a href="https://www.linkedin.com/in/mauricio-de-souza-peixoto/" target="_blank"><a href="https://www.gmail.com/mauriciosouzzapeixoto@gmail.com/" target="_blank">
   <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </div>
   
