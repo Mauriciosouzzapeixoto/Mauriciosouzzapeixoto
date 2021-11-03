@@ -1,10 +1,7 @@
-
-  ##
-  https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green
- </a> 
-  <a href = "mauriciosouzzapeixoto@gmail.com">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   
+  ##
+</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mauriciosouzzapeixoto&show_icons=true&theme=green_all_commits=true&count_private=true"/>
 
 
 <div style = "display: inline_block"> <br>
