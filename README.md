@@ -2,7 +2,7 @@
 <div align="direct">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mauriciosouzzapeixoto&show=Dark"/></div>
 <br>
-<div align="direct">
+<div align="center">
 <img align="right" alt="" height="150" style="border-radius:50px;" src="<a href="https://picasion.com/">
 <img src="https://i.picasion.com/pic91/ad41067acb40f02d3d659c400bd41b4d.gif" width="90" height="90" border="0" alt="https://picasion.com/" /></a><br/>
 </div>
