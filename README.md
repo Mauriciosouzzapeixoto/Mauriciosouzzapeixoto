@@ -1,23 +1,39 @@
-## Oiii eu sou a Mauriocio De Souza Peixoto, criadora de conteúdo de programação e tecnologia!
+## Oiii, eu sou o Mauricio De Souza Peixoto, desenvolvedor e entusiasta de tecnologia!
+
 <div align="center">
-   <a href="https://github.com/Mauriciosouzzapeixoto">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mauriciosouzzapeixoto&show_icons=true&theme=dracula&include_all_commits=Dark_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mauriciosouzzapeixoto&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/mauriciosouzzapeixoto">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mauriciosouzzapeixoto&show_icons=true&theme=dracula&count_private=true&include_all_commits=true"/>
+    
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciosouzzapeixoto&layout=compact&langs_count=7&theme=dracula&count_private=true"/>
   </a>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+<br>
+
+<div align="center">
+  <img alt="JS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="Android" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
+  <img alt="Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-  
-  ##
- 
-<div> 
-  <a href="https://instagram.com/mauriciosouzzapeixoto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "Mauricio: mauriciosouzzapeixoto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/mauricio-de-souza-peixoto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
- ![Snake animation](https://github.com/Mauriciosouzzapeixoto/Mauriciosouzzapeixoto/blob/output/github-contribution-grid-snake.svg)
- 
+
+<br>
+
+<div align="center"> 
+  <a href="https://instagram.com/mauriciosouzzapeixoto" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="mailto:mauriciosouzzapeixoto@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/mauricio-de-souza-peixoto" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github.com/mauriciosouzzapeixoto/mauriciosouzzapeixoto/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </div>
