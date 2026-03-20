@@ -2,11 +2,13 @@
 
 <div align="center">
   <a href="https://github.com/mauriciosouzzapeixoto">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mauriciosouzzapeixoto&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciosouzzapeixoto&layout=compact&langs_count=7&theme=dracula&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mauriciosouzzapeixoto&show_icons=true&theme=dracula&bg_color=1c1c1c&title_color=f8f8f2&text_color=355E3B&icon_color=355E3B&border_color=355E3B&count_private=true&include_all_commits=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciosouzzapeixoto&layout=compact&langs_count=7&theme=dracula&bg_color=1c1c1c&title_color=f8f8f2&text_color=355E3B&border_color=355E3B&count_private=true" />
   </a>
 </div>
 
+  </a>
+</div>
 <br>
 
 <div align="center">
