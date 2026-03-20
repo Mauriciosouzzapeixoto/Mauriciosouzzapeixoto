@@ -3,7 +3,6 @@
 <div align="center">
   <a href="https://github.com/mauriciosouzzapeixoto">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mauriciosouzzapeixoto&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=4db35e&icon_color=4db35e&border_color=355E3B&count_private=true&include_all_commits=true" />
-    
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciosouzzapeixoto&layout=compact&langs_count=7&bg_color=0d1117&title_color=ffffff&text_color=4db35e&border_color=355E3B&count_private=true" />
   </a>
 </div>
@@ -21,15 +20,9 @@
 <br>
 
 <div align="center"> 
-  <a href="https://instagram.com/mauriciosouzzapeixoto" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="mailto:mauriciosouzzapeixoto@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/mauricio-de-souza-peixoto" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a> 
+  <a href="https://instagram.com/mauriciosouzzapeixoto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:mauriciosouzzapeixoto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/mauricio-de-souza-peixoto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
 
 <br>
