@@ -6,7 +6,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciosouzzapeixoto&layout=compact&langs_count=7&bg_color=0d1117&title_color=ffffff&text_color=4db35e&border_color=355E3B&count_private=true" />
   </a>
 </div>
-
+<img width="430" height="180" alt="spark" src="https://github.com/user-attachments/assets/e37d5217-975c-43f1-9d8b-815875a0b6e6" />
 <br>
 
 <div align="center">
@@ -26,7 +26,6 @@
 </div>
 
 <br>
-<img width="430" height="180" alt="spark" src="https://github.com/user-attachments/assets/e37d5217-975c-43f1-9d8b-815875a0b6e6" />
 
 <div align="center">
   <img src="https://github.com/mauriciosouzzapeixoto/mauriciosouzzapeixoto/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
